@@ -63,11 +63,6 @@ You can deploy this bot anywhere.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/navaneethrkrishna007/The-Auto-Filter-Bot)
 
 
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
